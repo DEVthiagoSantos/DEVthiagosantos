@@ -1,6 +1,6 @@
 # Thiago Santos
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Thiago Nascimento dos Santos, tenho 21 anos e moro na Bahia, interior da Bahia, São Francisco do Conde. Concluí o ensino médio na Escola Martinho Sales Brasil, fiz um curso técnico em informática (mesmo sem precisar, já que vivo de computador). Atualmente, estou cursando Java na Alura. Sou apaixonada por tecnologia e compartilho um pouco do que estou aprendendo a cada dia no TikTok, comecei pelo Python, fiz o basico de HTML e CSS, depois foquei em JavaScript, e hoje em dia to expandindo meus conhecimentos com Java, decisão que fiz quando descobri minha paixão pelo Back-End.
 
