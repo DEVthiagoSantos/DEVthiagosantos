@@ -84,6 +84,6 @@ Atuar como Desenvolvedor Back-End Júnior, contribuindo com soluções eficiente
 
 ## 📫 Contato
 
-- 📍 São Francisco do Conde - BA
+- 📍 Salvador - BA
 - 💼 Em busca de oportunidade como Desenvolvedor Back-End Júnior
 
