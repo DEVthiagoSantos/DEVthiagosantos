@@ -53,10 +53,9 @@ Além dos estudos, compartilho minha evolução e aprendizados no TikTok, incent
 
 ## 📚 Atualmente Estudando
 
-- Programação Orientada a Objetos (POO)
 - Estruturas de Dados
 - APIs REST
-- Spring Boot (próximo passo 🚀)
+- Spring Boot
 
 ---
 
