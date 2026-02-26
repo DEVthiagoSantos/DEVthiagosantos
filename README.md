@@ -2,7 +2,7 @@
 
 **Desenvolvedor Back-End | Java | JavaScript | Python**
 
-Me chamo Thiago Nascimento dos Santos, tenho 21 anos e moro em São Francisco do Conde - BA.  
+Me chamo Thiago Nascimento dos Santos, tenho 21 anos e moro em Salvador - BA.  
 Sou apaixonado por tecnologia e desenvolvimento de software, com foco em Back-End.
 
 Concluí o ensino médio na Escola Martinho Sales Brasil e também fiz curso técnico em Informática.  
